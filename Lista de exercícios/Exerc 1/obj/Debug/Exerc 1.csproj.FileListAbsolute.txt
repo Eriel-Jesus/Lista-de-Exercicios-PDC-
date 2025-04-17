@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\Lista de exercícios\Exerc 1\bin\Debug\Exerc 1.exe.config
+C:\Users\aluno\source\repos\Lista de exercícios\Exerc 1\bin\Debug\Exerc 1.exe
+C:\Users\aluno\source\repos\Lista de exercícios\Exerc 1\bin\Debug\Exerc 1.pdb
+C:\Users\aluno\source\repos\Lista de exercícios\Exerc 1\obj\Debug\Exerc 1.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Lista de exercícios\Exerc 1\obj\Debug\Exerc 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\Lista de exercícios\Exerc 1\obj\Debug\Exerc 1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Lista de exercícios\Exerc 1\obj\Debug\Exerc 1.exe
+C:\Users\aluno\source\repos\Lista de exercícios\Exerc 1\obj\Debug\Exerc 1.pdb
