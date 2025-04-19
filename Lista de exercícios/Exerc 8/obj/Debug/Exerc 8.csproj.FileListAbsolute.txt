@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista-de-Exercicios-PDC--main\Lista de exercícios\Exerc 8\bin\Debug\Exerc 8.exe.config
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista-de-Exercicios-PDC--main\Lista de exercícios\Exerc 8\bin\Debug\Exerc 8.exe
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista-de-Exercicios-PDC--main\Lista de exercícios\Exerc 8\bin\Debug\Exerc 8.pdb
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista-de-Exercicios-PDC--main\Lista de exercícios\Exerc 8\obj\Debug\Exerc 8.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista-de-Exercicios-PDC--main\Lista de exercícios\Exerc 8\obj\Debug\Exerc 8.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista-de-Exercicios-PDC--main\Lista de exercícios\Exerc 8\obj\Debug\Exerc 8.exe
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista-de-Exercicios-PDC--main\Lista de exercícios\Exerc 8\obj\Debug\Exerc 8.pdb
