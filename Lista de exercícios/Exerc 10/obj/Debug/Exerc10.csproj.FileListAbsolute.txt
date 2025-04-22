@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista-de-Exercicios-PDC--main\Lista de exercícios\Exerc 10\bin\Debug\Exerc 10.exe.config
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista-de-Exercicios-PDC--main\Lista de exercícios\Exerc 10\bin\Debug\Exerc 10.exe
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista-de-Exercicios-PDC--main\Lista de exercícios\Exerc 10\bin\Debug\Exerc 10.pdb
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista-de-Exercicios-PDC--main\Lista de exercícios\Exerc 10\obj\Debug\Exerc10.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista-de-Exercicios-PDC--main\Lista de exercícios\Exerc 10\obj\Debug\Exerc10.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista-de-Exercicios-PDC--main\Lista de exercícios\Exerc 10\obj\Debug\Exerc 10.exe
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista-de-Exercicios-PDC--main\Lista de exercícios\Exerc 10\obj\Debug\Exerc 10.pdb
